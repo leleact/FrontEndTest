@@ -2,7 +2,7 @@
 
 ## npm
 
-npm init 命令生成package.json
+`npm init`命令生成`package.json`
 ``` bash
 npm init 
 ```
