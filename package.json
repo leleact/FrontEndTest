@@ -1,0 +1,11 @@
+{
+    "name": "frontendtest",
+    "version": "0.0.0",
+    "author": "leleact",
+    "description": "前端测试",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leleact/FrontEndTest.git"
+    },
+    "license": "MIT"
+}
